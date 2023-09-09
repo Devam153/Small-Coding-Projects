@@ -6,4 +6,5 @@ Pause the video, take your time to understand the logic behind the code and also
 The worst that could happen is coming across an error which will make you question even more actually
 I apologise for sounding like a teacher.
 I'm just like you someone that likes to code and wants to make it work and keep on learning.
+
 Happy Coding!
